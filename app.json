@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "first_project",
+    "name": "Daily Notes",
     "slug": "first_project",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Daily_Notes.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -21,6 +21,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.Dimas.DailyNotes"
     }
   }
 }
